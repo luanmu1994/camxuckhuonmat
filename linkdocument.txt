@@ -1,0 +1,2 @@
+https://stats.stackexchange.com/questions/280179/why-is-resnet-faster-than-vgg
+https://machinelearningmastery.com/weighted-average-ensemble-with-python/#:~:text=Weighted%20average%20or%20weighted%20sum%20ensemble%20is%20an%20ensemble%20machine,related%20to%20the%20voting%20ensemble.
