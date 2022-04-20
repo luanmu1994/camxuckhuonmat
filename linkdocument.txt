@@ -1,2 +1,6 @@
 https://stats.stackexchange.com/questions/280179/why-is-resnet-faster-than-vgg
 https://machinelearningmastery.com/weighted-average-ensemble-with-python/#:~:text=Weighted%20average%20or%20weighted%20sum%20ensemble%20is%20an%20ensemble%20machine,related%20to%20the%20voting%20ensemble.
+P. Ekman and W. V. Friesen, “Constants across cultures in the face and
+emotion.” Journal of personality and social psychology, vol. 17, no. 2,
+pp. 124–129, 1971. [1]
+R. T. Ionescu, M. Popescu, and C. Grozea (2013), “Local learning to improve bag of visual words model for facial expression recognition”, Workshop on Challenges in Representation Learning International Conference on Machine Learning, available at: https://www.semanticscholar.org/paper/Local-Learning-to-Improve-Bag-of-Visual-Words-Model-Ionescu-Grozea/97088cbbac03bf8e9a209403f097bc9af46a4ebb (on 26/11/2021).
